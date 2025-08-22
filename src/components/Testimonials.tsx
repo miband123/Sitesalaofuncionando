@@ -191,7 +191,7 @@ const Testimonials = () => {
           
           <div className="text-center mt-12">
             <a 
-              href="https://wa.me/5584996387492?text=Oi!%20Quero%20essa%20transformação%20no%20meu%20salão!%20Como%20faço%20para%20começar%20o%20teste%20gratuito?%20✨"
+              href="https://wa.me/5584988137967?text=Oi!%20Quero%20essa%20transformação%20no%20meu%20salão!%20Como%20faço%20para%20começar%20o%20teste%20gratuito?%20✨"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white px-12 py-4 rounded-full font-bold text-xl hover:from-purple-700 hover:to-pink-700 transition-all transform hover:scale-105 shadow-lg"
