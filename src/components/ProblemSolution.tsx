@@ -124,7 +124,7 @@ const ProblemSolution = () => {
               Teste gratuitamente por 7 dias e veja a diferença
             </p>
             <a 
-              href="https://wa.me/5584996387492?text=Oi!%20Quero%20testar%20o%20SalonClick%20gratuitamente%20por%207%20dias%20🚀"
+              href="https://wa.me/5584988137967?text=Oi!%20Quero%20testar%20o%20SalonClick%20gratuitamente%20por%207%20dias%20🚀"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white px-12 py-4 rounded-full font-bold text-xl hover:from-purple-700 hover:to-pink-700 transform hover:scale-105 transition-all duration-300 shadow-lg"
