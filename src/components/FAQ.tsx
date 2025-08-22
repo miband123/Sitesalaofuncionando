@@ -113,7 +113,7 @@ const FAQ = () => {
             Fale direto conosco no WhatsApp e tire todas as suas dúvidas
           </p>
           <a 
-            href="https://wa.me/5584996387492?text=Oi!%20Tenho%20algumas%20dúvidas%20sobre%20o%20SalonClick.%20Podem%20me%20ajudar?%20🤔"
+            href="https://wa.me/5584988137967?text=Oi!%20Tenho%20algumas%20dúvidas%20sobre%20o%20SalonClick.%20Podem%20me%20ajudar?%20🤔"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white px-12 py-4 rounded-full font-bold text-xl hover:from-purple-700 hover:to-pink-700 transform hover:scale-105 transition-all duration-300 shadow-lg"
