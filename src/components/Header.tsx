@@ -66,7 +66,7 @@ const Header = () => {
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <a 
-                href="https://wa.me/5584996387492?text=Oi!%20Quero%20começar%20meu%20teste%20gratuito%20de%207%20dias%20do%20SalonClick%20🎉"
+                href="https://wa.me/5584988137967?text=Oi!%20Quero%20começar%20meu%20teste%20gratuito%20de%207%20dias%20do%20SalonClick%20🎉"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-purple-600 to-pink-600 text-white px-8 py-4 rounded-full font-bold text-lg hover:from-purple-700 hover:to-pink-700 transform hover:scale-105 transition-all duration-300 shadow-lg text-center"
@@ -131,7 +131,7 @@ const Header = () => {
       {/* Floating WhatsApp Button */}
       <div className="fixed bottom-6 right-6 z-50">
         <a 
-          href="https://wa.me/558496387492?text=Oi!%20Gostaria%20de%20saber%20mais%20sobre%20o%20SalonClick%20💬"
+          href="https://wa.me/5584988137967?text=Oi!%20Gostaria%20de%20saber%20mais%20sobre%20o%20SalonClick%20💬"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-green-500 text-white p-4 rounded-full shadow-lg hover:bg-green-600 transition-all transform hover:scale-110 animate-pulse block"
