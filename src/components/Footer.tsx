@@ -46,7 +46,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center space-x-2">
                 <Phone className="w-4 h-4 text-purple-400" />
-                <span className="text-gray-400">(84) 99638-74929</span>
+                <span className="text-gray-400">(84) 98813-7967</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Mail className="w-4 h-4 text-purple-400" />
