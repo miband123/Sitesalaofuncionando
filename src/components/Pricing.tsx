@@ -70,7 +70,7 @@ const Pricing = () => {
 
             <button className="w-full bg-gradient-to-r from-green-600 to-emerald-600 text-white py-4 rounded-2xl font-bold text-lg hover:from-green-700 hover:to-emerald-700 transition-all transform hover:scale-105 shadow-lg">
               <a 
-                href="https://wa.me/5584996387492?text=Oi!%20Quero%20começar%20meu%20teste%20gratuito%20de%207%20dias%20do%20SalonClick%20no%20Plano%20Start%20🚀"
+                href="https://wa.me/5584988137967?text=Oi!%20Quero%20começar%20meu%20teste%20gratuito%20de%207%20dias%20do%20SalonClick%20no%20Plano%20Start%20🚀"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full text-center"
@@ -122,7 +122,7 @@ const Pricing = () => {
 
             <button className="w-full bg-gradient-to-r from-purple-600 to-pink-600 text-white py-4 rounded-2xl font-bold text-lg hover:from-purple-700 hover:to-pink-700 transition-all transform hover:scale-105 shadow-lg">
               <a 
-                href="https://wa.me/5584996387492?text=Oi!%20Quero%20começar%20meu%20teste%20gratuito%20de%207%20dias%20do%20SalonClick%20no%20Plano%20Premium%20💜"
+                href="https://wa.me/5584988137967?text=Oi!%20Quero%20começar%20meu%20teste%20gratuito%20de%207%20dias%20do%20SalonClick%20no%20Plano%20Premium%20💜"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full text-center"
