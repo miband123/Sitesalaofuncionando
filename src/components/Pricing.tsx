@@ -52,7 +52,7 @@ const Pricing = () => {
                 Plano Start
               </h3>
               <div className="text-4xl font-bold text-gray-800 mb-2">
-                R$ 47<span className="text-lg text-gray-600">/mês</span>
+                R$ 35,90<span className="text-lg text-gray-600">/mês</span>
               </div>
               <p className="text-green-600 font-bold text-lg">
                 🚀 IDEAL PARA COMEÇAR - TESTE 7 DIAS GRÁTIS
@@ -102,7 +102,7 @@ const Pricing = () => {
                 Plano Premium
               </h3>
               <div className="text-4xl font-bold text-gray-800 mb-2">
-                R$ 57<span className="text-lg text-gray-600">/mês</span>
+                R$ 47,90<span className="text-lg text-gray-600">/mês</span>
               </div>
               <p className="text-purple-600 font-bold text-lg">
                 ✨ DISPONÍVEL AGORA - TESTE 7 DIAS GRÁTIS
@@ -201,7 +201,7 @@ const Pricing = () => {
         {/* Trust Indicators */}
         <div className="mt-16 grid md:grid-cols-4 gap-8 text-center">
           <div className="bg-white rounded-2xl p-6 shadow-lg">
-            <div className="text-3xl font-bold text-green-600 mb-2">R$ 47</div>
+            <div className="text-3xl font-bold text-green-600 mb-2">R$ 35,90</div>
             <p className="text-gray-600">Plano Start</p>
           </div>
           <div className="bg-white rounded-2xl p-6 shadow-lg">
