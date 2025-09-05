@@ -82,8 +82,6 @@ const Pricing = () => {
             <div className="mt-6 text-center">
               <p className="text-sm text-gray-500">
                 • Perfeito para salões iniciantes<br/>
-                • WhatsApp integrado incluso<br/>
-                • Agenda automática
               </p>
             </div>
           </div>
