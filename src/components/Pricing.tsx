@@ -152,7 +152,7 @@ const Pricing = () => {
                   Plano Diamante
                 </h3>
                 <div className="text-4xl font-bold mb-2">
-                  R$ 97<span className="text-lg opacity-80">/mês</span>
+                  R$ 67<span className="text-lg opacity-80">/mês</span>
                 </div>
                 <p className="text-purple-200 font-bold text-lg">
                   💎 EM BREVE - SEJA A PRIMEIRA A SABER
